@@ -1,0 +1,19 @@
+Package: rbase
+Type: Package
+Title: Integrates R and HBase
+Version: 1.0
+Date: 2012-08-16
+Author: Saptarshi Guha <saptarshi.guha@gmail.com>
+Maintainer: Saptarshi Guha <saptarshi.guha@gmail.com>
+Description: Access Hbase from R
+License: Apache License (== 2.0)
+OS_type: unix
+Depends:
+    methods
+Packaged: Fri Mar  6 17:02:01 2012; jrounds
+Collate:
+    'rb.init.R'
+    'rb.list.tables.R'
+    'rb.table.access.R'
+    'rb.table.admin.R'
+    'rb.table.info.R'
