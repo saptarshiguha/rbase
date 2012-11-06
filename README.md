@@ -1,4 +1,4 @@
 rbase
 =====
 
-Interface between R and HBase
+Interface between R and HBase.
